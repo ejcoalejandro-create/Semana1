@@ -5,16 +5,12 @@ sitio presenta el negocio, los cafés de origen, las catas mensuales, la futura
 suscripción de café a domicilio y permite a los clientes escribir a través de un
 formulario de contacto validado en el servidor.
 
-Proyecto realizado como práctica de segundo curso de DAW/DAM (módulo de entorno
-cliente/servidor web).
-
 ## Herramientas utilizadas
 
 - **Visual Studio Code** como editor para todo el código (HTML, CSS, JS y PHP).
-- **IA (Claude)** como apoyo puntual durante el desarrollo: generación de fragmentos
-  de código, revisión de la validación en PHP y redacción de esta documentación.
+- **IA** como apoyo puntual durante el desarrollo: generación de fragmentos de código, revisión de la validación en PHP.
   Todo el código generado ha sido revisado y entendido antes de incluirlo en el
-  proyecto; no se ha usado nada que no se sepa explicar línea a línea.
+  proyecto.
 - **XAMPP** (Apache + PHP) como servidor local, necesario porque el formulario de
   contacto usa PHP y este no se ejecuta abriendo los archivos directamente con
   doble clic (`file://`), solo funciona servido por un servidor web real
