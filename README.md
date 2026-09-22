@@ -37,13 +37,13 @@ C:\xampp\htdocs\Semana1\
 - index.html
 -  ficha-cata.css
 -   script.js
--     Cata.html
--  Cata.php
--    contacto.html
--    Contacto.php
--    Conversor.html
--    Conversor.js
--    README.md
+-   Cata.html
+-   Cata.php
+-   Contacto.html
+-   Contacto.php
+-   Conversor.html
+-   Conversor.js
+-   README.md
 
 3. Arranca Apache
 
